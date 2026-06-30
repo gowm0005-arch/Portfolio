@@ -18,6 +18,7 @@ export const typewriterWords = [
 
 export const aboutStats = [
   { label: "Projects Completed", value: 4 },
+  { label: "Projects Completed", value: 5 },
   { label: "Technologies Learned", value: 12 },
   { label: "Certificates", value: 5 },
   { label: "GitHub Repositories", value: 8 },
@@ -31,6 +32,8 @@ export const skillGroups = [
       { name: "CSS3", level: 88 },
       { name: "JavaScript", level: 82 },
       { name: "React", level: 75 },
+
+      { name: "Tailwind CSS", level: 80 },
       { name: "Bootstrap", level: 78 },
     ],
   },
@@ -44,9 +47,11 @@ export const skillGroups = [
   },
   {
     title: "Database",
+
     skills: [{ name: "MySQL", level: 75 },
     { name: "MongoDB", level: 60 },
     ],
+    skills: [{ name: "MySQL", level: 75 }],
   },
   {
     title: "Tools",
@@ -97,6 +102,7 @@ export const projects = [
     description:
       "A responsive calculator built with vanilla JavaScript, handling standard arithmetic and edge cases.",
     tech: ["JavaScript", "HTML", "CSS"],
+
     github: "https://github.com/gowm0005-arch/Calculator/",
     demo: "https://calculator-xi-dusky-jbj4vk1qk6.vercel.app/",
   },
@@ -107,14 +113,23 @@ export const projects = [
     tech: ["React", "HTML", "CSS", "node.js", "mongoDB"],
     github: "https://github.com/gowm0005-arch/Food-Explorer",
     demo: "https://food-explorer-cyan-alpha.vercel.app/",
+
+    github: "https://github.com/",
+    demo: "#",
+
   },
 ];
 
 export const education = {
   degree: "Bachelor of Computer Applications (BCA)",
+
   college: "College of Computer Applications",
   university: "Affiliated University",
   cgpa: "7.8",
+
+  college: "Rajadhani Group of Institution",
+  university: "Graduating in 2026",
+  cgpa: "7.85",
   duration: "2023 — 2026",
 };
 
@@ -139,4 +154,9 @@ export const contactInfo = {
   location: "Bangalore, India",
   github: "https://github.com/",
   linkedin: "https://linkedin.com/",
+  phone: "+91 98444 74232",
+  location: "Marathahalli, Bangalore",
+  github: "https://github.com/gowm0005arch",
+  linkedin: "https://linkedin.com/in/mgowthamb6797341a",
+
 };
