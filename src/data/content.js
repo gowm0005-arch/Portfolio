@@ -149,10 +149,10 @@ export const contactInfo = {
   phone: "+9198444742322",
   location: "Bangalore, India",
   github: "https://github.com/gowm0005-arch",
-  linkedin: "https://www.linkedin.com/in/m-gowtham-b6797341a/",
+  linkedin: "linkedin.com/in/m-gowtham-b6797341a",
   phone: "+91 98444 74232",
   location: "Marathahalli, Bangalore",
   github: "https://github.com/gowm0005-arch",
-  linkedin: "https://www.linkedin.com/in/m-gowtham-b6797341a/",
+  linkedin: "linkedin.com/in/m-gowtham-b6797341a",
 
 };
