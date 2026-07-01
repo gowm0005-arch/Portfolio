@@ -112,13 +112,10 @@ export default function Hero() {
               View Projects
             </a>
             <a
-<<<<<<< HEAD
               href="/M_Goutham_Resume.pdf"
               download="M_Goutham_Resume.pdf"
-=======
               href="/resume.pdf"
               download="M_Gowtham_Resume.pdf"
->>>>>>> 75c155599f106965c367ec807fed38eb2e5954a6
               className="px-6 py-3 rounded-full glass gradient-border font-medium flex items-center gap-2 hover:scale-105 transition-transform"
             >
               <FiDownload /> Download Resume
