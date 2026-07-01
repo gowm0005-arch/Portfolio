@@ -152,7 +152,7 @@ export const contactInfo = {
   linkedin: "https://www.linkedin.com/in/m-gowtham-b6797341a/",
   phone: "+91 98444 74232",
   location: "Marathahalli, Bangalore",
-  github: "https://github.com/gowm0005arch",
-  linkedin: "https://www.linkedin.com/in/mgowthamb6797341a/",
+  github: "https://github.com/gowm0005-arch",
+  linkedin: "https://www.linkedin.com/in/m-gowtham-b6797341a/",
 
 };
