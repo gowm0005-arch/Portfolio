@@ -102,7 +102,6 @@ export const projects = [
     description:
       "A responsive calculator built with vanilla JavaScript, handling standard arithmetic and edge cases.",
     tech: ["JavaScript", "HTML", "CSS"],
-
     github: "https://github.com/gowm0005-arch/Calculator/",
     demo: "https://calculator-xi-dusky-jbj4vk1qk6.vercel.app/",
   },
@@ -113,9 +112,6 @@ export const projects = [
     tech: ["React", "HTML", "CSS", "node.js", "mongoDB"],
     github: "https://github.com/gowm0005-arch/Food-Explorer",
     demo: "https://food-explorer-cyan-alpha.vercel.app/",
-
-    github: "https://github.com/",
-    demo: "#",
 
   },
 ];
