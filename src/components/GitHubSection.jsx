@@ -3,8 +3,7 @@ import Reveal from "./Reveal";
 import SectionHeading from "./SectionHeading";
 
 export default function GitHubSection() {
-  const username = "gowtham-dev"; // replace with the real GitHub username
-  const username = "gowm0005arch"; // your real GitHub username
+  const username = "gowm0005-arch"; // your real GitHub username
 
   return (
     <section id="github" className="relative py-24">
