@@ -75,7 +75,7 @@ export default function Contact() {
                 href={contactInfo.github}
                 target="_blank"
                 rel="noreferrer"
-                aria-label="https://github.com/gowm0005-arch"
+                aria-label="GitHub profile"
                 className="w-11 h-11 rounded-full glass flex items-center justify-center hover:text-[var(--color-accent)] hover:-translate-y-1 transition-all"
               >
                 <FiGithub />
@@ -84,7 +84,7 @@ export default function Contact() {
                 href={contactInfo.linkedin}
                 target="_blank"
                 rel="noreferrer"
-                aria-label="https://www.linkedin.com/in/m-gowtham-b6797341a/e"
+                aria-label="LinkedIn profile"
                 className="w-11 h-11 rounded-full glass flex items-center justify-center hover:text-[var(--color-accent)] hover:-translate-y-1 transition-all"
               >
                 <FiLinkedin />
