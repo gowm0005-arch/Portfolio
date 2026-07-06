@@ -18,10 +18,9 @@ export const typewriterWords = [
 
 export const aboutStats = [
   { label: "Projects Completed", value: 4 },
-  { label: "Projects Completed", value: 5 },
-  { label: "Technologies Learned", value: 12 },
-  { label: "Certificates", value: 5 },
-  { label: "GitHub Repositories", value: 8 },
+  { label: "Technologies Learned", value: 10 },
+  { label: "Certificates", value: 2 },
+  { label: "GitHub Repositories", value: 3 },
 ];
 
 export const skillGroups = [
@@ -113,7 +112,7 @@ export const certificates = [
 
 export const achievements = [
   { label: "Projects", value: 3 },
-  { label: "Certificates", value: 5 },
+  { label: "Certificates", value: 2 },
   { label: "Technologies", value: 10 },
   { label: "GitHub Repositories", value: 3 },
 ];
