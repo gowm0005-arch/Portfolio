@@ -82,22 +82,6 @@ export const projects = [
     demo: "#",
   },
   {
-    title: "Weather App",
-    description:
-      "Real-time weather lookup app consuming a public weather API with location search and dynamic UI states.",
-    tech: ["JavaScript", "API", "CSS"],
-    github: "https://github.com/",
-    demo: "#",
-  },
-  {
-    title: "To-Do App",
-    description:
-      "A React-based task manager with add, complete, and delete functionality and persistent local storage.",
-    tech: ["React", "JavaScript", "CSS"],
-    github: "https://github.com/",
-    demo: "#",
-  },
-  {
     title: "Calculator",
     description:
       "A responsive calculator built with vanilla JavaScript, handling standard arithmetic and edge cases.",
