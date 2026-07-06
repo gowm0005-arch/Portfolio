@@ -32,17 +32,12 @@ export const skillGroups = [
       { name: "CSS3", level: 88 },
       { name: "JavaScript", level: 82 },
       { name: "React", level: 75 },
-
-      { name: "Tailwind CSS", level: 80 },
-      { name: "Bootstrap", level: 78 },
     ],
   },
   {
     title: "Programming",
     skills: [
       { name: "Python", level: 75 },
-      { name: "PHP", level: 70 },
-      { name: "Java", level: 65 },
     ],
   },
   {
@@ -59,7 +54,6 @@ export const skillGroups = [
       { name: "Git", level: 80 },
       { name: "GitHub", level: 82 },
       { name: "VS Code", level: 90 },
-      { name: "Figma", level: 65 },
     ],
   },
 ];
@@ -114,18 +108,14 @@ export const education = {
 };
 
 export const certificates = [
-  "Python Certificate",
-  "JavaScript Certificate",
-  "React Certificate",
-  "Git & GitHub",
   "Web Development",
 ];
 
 export const achievements = [
-  { label: "Projects", value: 5 },
+  { label: "Projects", value: 3 },
   { label: "Certificates", value: 5 },
-  { label: "Technologies", value: 12 },
-  { label: "GitHub Repositories", value: 8 },
+  { label: "Technologies", value: 10 },
+  { label: "GitHub Repositories", value: 3 },
 ];
 
 export const contactInfo = {
