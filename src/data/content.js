@@ -111,7 +111,7 @@ export const certificates = [
 ];
 
 export const achievements = [
-  { label: "Projects", value: 3 },
+  { label: "Projects", value: 4 },
   { label: "Certificates", value: 2 },
   { label: "Technologies", value: 10 },
   { label: "GitHub Repositories", value: 3 },
